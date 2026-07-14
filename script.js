@@ -1,4 +1,4 @@
-const URL = "./model/";
+const URL = "./tm-my-image-model(1)/";
 
 let model, webcam, labelContainer, maxPredictions;
 
